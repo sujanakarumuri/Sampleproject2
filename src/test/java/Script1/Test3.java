@@ -1,4 +1,4 @@
-package Script;
+package Script1;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
